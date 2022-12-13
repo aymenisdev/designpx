@@ -6,13 +6,13 @@ Implementation responsive screen with design ux/ui .
 Responsive screen .
 
 ## Getting started
-You just need to add the coordinates of the design to be applied to and start working in the normal mode
+You just need to add the coordinates of the design to be applied to and start working in the normal mode .
 
 ## Usage
-Setup the Package firstly and set the package in main Widget before your bisc widget after that you can use the size like :
-int (width: w25)  , double (width: w(25))  , double (width: wx(25)) <br />
-int (height: h38) , double (height: h(38)) ,  double (height: hx(38))
-it's become responsive with default design and differnt screens 
+Setup the Package firstly and set the package in main Widget before your bisc widget after that you can use the size like :<br />
+int (width: w25)  , double (width: w(25))  , double (width: wx(25))<br />
+int (height: h38) , double (height: h(38)) ,  double (height: hx(38))<br />
+it's become responsive with default design and differnt screens .<br />
 
 
 ```dart
