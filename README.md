@@ -10,7 +10,7 @@ You just need to add the coordinates of the design to be applied to and start wo
 
 ## Usage
 Setup the Package firstly and set the package in main Widget before your bisc widget after that you can use the size like :
-int (width: w25)  , double (width: w(25))  , double (width: wx(25))
+int (width: w25)  , double (width: w(25))  , double (width: wx(25)) \n
 int (height: h38) , double (height: h(38)) ,  double (height: hx(38))
 it's become responsive with default design and differnt screens 
 
