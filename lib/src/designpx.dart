@@ -43,8 +43,8 @@ double hx(double px) {
 
 double fx(double px) {
   // role (width * height )=> area   ((390*844) / 100)*14 / 3288.8;
-  double size = px * 329.16; // defualt size as 1%
-  return (((((curw * curh) / 100) * size) / 3288.8).round()).toDouble();
+//   double size = px * 329.16; // defualt size as 1%
+  return (((((curw * curh) / 100) * px) / 3288.8).round()).toDouble();
 }
 
 double w(double px) {
@@ -59,8 +59,8 @@ double h(double px) {
 
 double f(double px) {
   // role (width * height )=> area   ((390*844) / 100)*14 / 3288.8;
-  double size = px * 329.16; // defualt size as 1%
-  return (((((curw * curh) / 100) * size) / 3288.8).round()).toDouble();
+//   double size = px * 329.16; // defualt size as 1%
+  return (((((curw * curh) / 100) * px) / 3288.8).round()).toDouble();
 }
 
 // shortcut
